@@ -160,7 +160,7 @@ class FitnessTracker(Person):
 
 
 def main():
-    tracker = FitnessTracker("John Doe", 30)
+    tracker = FitnessTracker("Dhara", 18)
     tracker.display_data()
 
     print("Welcome to the Fitness Tracker!")
